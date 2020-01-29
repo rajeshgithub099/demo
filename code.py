@@ -3,3 +3,4 @@ y = 10
 print "( x +  y)"
 print "(hii)"
 print "(hello)"
+print "(namaskar)"
